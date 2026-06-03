@@ -50,6 +50,23 @@ Hello, my name is Prasad. Thank you for the opportunity.
 
 ---
 ---
+Thank you for giving me this opportunity.
+
+- My name is Prasad, and I have over 5 years of experience in the IT industry, including around 3 years of experience in Automation Testing.
+
+- I have been actively involved in developing and enhancing automation frameworks using Selenium WebDriver and Playwright with Python. Leveraging PyTest, Behave, and Page Object Model design patterns, I have created robust and reusable test automation solutions. I have also managed automation suite maintenance, optimized test execution, and integrated automation workflows with Jenkins CI/CD pipelines to support continuous testing.
+
+
+- In my current project, I am involved in Smoke Testing, Regression Testing, End-to-End Testing, and automation framework maintenance. I work closely with developers, business analysts, and stakeholders to ensure quality deliverables and timely releases.
+
+- Apart from automation, I have strong experience in SQL and production support, which helps me perform data validation, root cause analysis, and troubleshooting effectively. I am also familiar with Agile Scrum methodology and actively participate in sprint planning, daily stand-ups, and retrospective meetings.
+
+- Throughout my career, I have focused on improving test coverage, reducing manual effort through automation, identifying defects early in the development cycle, and ensuring high-quality software delivery.
+
+- I enjoy learning new tools and technologies and continuously enhancing my automation and testing skills. I am excited about this opportunity because it aligns well with my experience and provides an excellent platform to contribute and grow professionally.
+
+---
+---
 I developed an automation framework using Python, PyTest, PyTest-BDD, Selenium WebDriver, Docker-based Selenium Grid, Jenkins CI/CD, and Allure reporting.
 
 Key Features:
