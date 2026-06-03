@@ -1,0 +1,23 @@
+admin,Admin@123,QA,https://example.com
+sam,Sam@123,UAT,https://test.com
+john,John@123,PROD,https://prod.com
+
+# User Test Data
+username=admin
+password=Admin@123
+env=QA
+url=https://example.com
+
+# User Details
+name=Sam
+age=28
+city=Vijayawada
+
+# Test Inputs
+search=python automation
+product=mobile
+quantity=2
+
+# Status
+status=active
+role=admin

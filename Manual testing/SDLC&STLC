@@ -1,0 +1,137 @@
+## Software Development Life Cycle (SDLC)
+
+
+The **Software Development Life Cycle (SDLC)** is a structured process used by software teams to design, develop, test, and deploy software applications efficiently and with high quality.
+
+It defines **phases, activities, and deliverables** at each stage of software development.
+
+---
+
+# SDLC Phases
+
+## 1. Requirement Gathering & Analysis
+
+In this phase:
+
+* Business requirements are collected from clients/stakeholders
+* Functional and non-functional requirements are documented
+* Feasibility study is done (technical, financial, operational)
+
+**Output:** SRS (Software Requirement Specification)
+
+**Example:** Login feature, payment feature, reports, etc.
+
+---
+
+## 2. System Design
+
+System architecture and design are created based on requirements.
+
+Types:
+
+* High Level Design (HLD) → Architecture, Tech stack, DB design
+* Low Level Design (LLD) → Class diagrams, API design, modules
+
+**Output:** Design Documents
+
+---
+
+## 3. Development (Coding)
+
+Developers write code based on design documents.
+
+Activities:
+
+* Coding
+* Unit Testing
+* Code Review
+* Build generation
+
+**Output:** Application build
+
+---
+
+## 4. Testing
+
+Testing team validates the application.
+
+Types of testing:
+
+* Functional Testing
+* Regression Testing
+* Integration Testing
+* System Testing
+* UAT (User Acceptance Testing)
+
+**Output:** Tested build / Bug reports
+
+---
+
+## 5. Deployment
+
+Application is deployed to:
+
+* Production
+* Staging
+* UAT Environment
+
+Deployment methods:
+
+* Manual deployment
+* CI/CD pipeline
+
+---
+
+## 6. Maintenance
+
+After deployment:
+
+* Bug fixes
+* Enhancements
+* Performance improvements
+* Production support
+
+---
+
+# SDLC Flow Summary
+
+```
+Requirements → Design → Development → Testing → Deployment → Maintenance
+```
+
+---
+
+# SDLC Models
+
+Common SDLC models:
+
+1. Waterfall Model
+2. Agile Model
+3. Spiral Model
+4. V Model
+5. Iterative Model
+6. Incremental Model
+7. DevOps Model
+
+---
+
+# SDLC vs STLC (Interview Important)
+
+| SDLC                            | STLC                               |
+| ------------------------------- | ---------------------------------- |
+| Software Development Life Cycle | Software Testing Life Cycle        |
+| Covers entire project           | Covers testing activities          |
+| Done by Dev + QA + BA           | Done by QA/Testers                 |
+| Includes coding                 | Includes test planning, test cases |
+| Ends after maintenance          | Ends after test closure            |
+
+---
+
+# Interview Definition (Best Answer)
+
+**“SDLC is a structured process used to design, develop, test, and deploy software applications through defined phases such as requirement gathering, design, development, testing, deployment, and maintenance to deliver high-quality software.”**
+
+---
+
+If you want, I can also explain **SDLC models (Waterfall vs Agile vs V-Model)** which is very common in interviews.
+
