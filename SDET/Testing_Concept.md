@@ -12,7 +12,7 @@
 
 #### Types of Software
 1. System Software
-   System software manages the computer hardware and provides a platform for other software to run.
+> System software manages the computer hardware and provides a platform for other software to run.
 
 **Examples:**
 
@@ -30,7 +30,7 @@
 * Provides security
 
 2. Application Software
-   Application software is designed to help users perform specific tasks.
+> Application software is designed to help users perform specific tasks.
 
 **Examples:**
 
@@ -47,7 +47,7 @@
 * Data analysis
 
 3. Programming Software
-   Programming software helps developers create, test, and maintain software.
+> Programming software helps developers create, test, and maintain software.
 
 **Examples:**
 
